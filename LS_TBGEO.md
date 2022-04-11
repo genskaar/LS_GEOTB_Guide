@@ -1,5 +1,5 @@
 # Light Side Geo TB - Genskaar
-Version 1.0 - 11/04/22
+Version 1.0.1 - 11/04/22
 
 ## Intro
 These are the teams I use for LS geo tb with short guides and video links. I'll try to fill in more of the video links next time when I record more.
